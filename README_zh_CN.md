@@ -1,5 +1,8 @@
 ## ​主题名称 Knowledge Show
 
+> 欢迎访问我的 [语雀数字花园](https://www.yuque.com/lanedu)
+> 欢迎访问我的 [B站](https://space.bilibili.com/85894775）
+
 ### 注意
 
 主题因为使用了css3的动画效果，电脑显卡性能不佳的电脑，请勿使用，可能会比较卡。
@@ -9,6 +12,13 @@
 ### 建议
 
 建议还是以light主题 [Knowledge Brain](https://b3logfile.com/file/2023/07/image-HQ6AitW.png?imageView2/2/interlace/1/format/jpg) 为主，搭配背景图片，暗色偶尔使用就好了
+
+### 20240827 问题修复
+1、修复图片无法添加标题、提示文本
+2、修复标准字母强制大写
+3. 这两个调整还是看的是github有人提的issue，以前没注意，看到了就修复了
+4. 最近我的语雀更新的蛮多的可以关注一下[语雀数字花园](https://www.yuque.com/lanedu)
+5. 准备拍vlog，可以关注下我的[B站](https://space.bilibili.com/85894775）或者视频号杜小萊，如果有人关注后面会分享下我怎么使用语雀、思源的，以及当初花费了三天三夜做的Notion模版
 
 ### 20230808 问题修复
 
