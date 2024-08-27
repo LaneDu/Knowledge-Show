@@ -21,11 +21,11 @@
 
 2、修复标准字母强制大写
 
-3、 这两个调整还是看的是github有人提的issue，以前没注意，看到了就修复了
+3、这两个调整还是看的是github有人提的issue，以前没注意，看到了就修复了
 
-4、 最近我的语雀更新的蛮多的可以关注一下[语雀数字花园](https://www.yuque.com/lanedu)
+4、最近我的语雀更新的蛮多的可以关注一下[语雀数字花园](https://www.yuque.com/lanedu)
 
-5、 准备拍vlog，可以关注下我的[BiliBili](https://space.bilibili.com/85894775)
+5、准备拍vlog，可以关注下我的[BiliBili](https://space.bilibili.com/85894775)
 或者视频号杜小萊，关注后面会分享下我怎么使用语雀、思源的，以及当初花费了三天三夜做的Notion模版
 
 
